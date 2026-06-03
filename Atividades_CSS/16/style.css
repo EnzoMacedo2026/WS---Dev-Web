@@ -1,23 +1,29 @@
-.portifolio{
-    background-color: #f0f0f0;
-    margin: 30px;
-    padding: 10px 30px;
-    width: 500px;
-    box-sizing: border-box;
-    box-shadow: 6px 6px 10px #0f0f0f;
-    border-radius: 10px;
-}
-
-.imagem-descricao{
-    width: 300;
-    height: 300;
-}
-
 img{
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
+    border-radius: 8px;
     box-shadow: 6px 6px 10px #696969;
     margin-bottom: 40px;
     display: block;
+}
+
+h1{
+    color: navy;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    background-color: lightblue;
+    border: 5px solid;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
 }
